@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("ir"))
+            {
+                return "Dia duit domhan";
+            }
             else
             {
                 return "Hello World";
